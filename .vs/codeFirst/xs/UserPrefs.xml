@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{DF20AF5E-F415-4F3F-8BB5-B0DFEE1DB609}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.codeFirst PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+<<<<<<< HEAD
+      <File FileName="appsettings.json" Line="12" Column="2" />
+      <File FileName="Controllers/CityController.cs" Line="83" Column="1" />
+      <File FileName="Controllers/ProvinceController.cs" Line="32" Column="35" />
+=======
+      <File FileName="appsettings.json" Line="13" Column="2" />
+      <File FileName="Controllers/CityController.cs" Line="15" Column="1" />
+      <File FileName="Controllers/ProvinceController.cs" Line="31" Column="10" />
+>>>>>>> 4e4e5a25ae5e51c32ee6b65b8320db69bc9f8eee
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="55" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+<<<<<<< HEAD
+          <Node name="codeFirst" expanded="True">
+            <Node name="codeFirst" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+=======
+          <Node name="codeFirst" expanded="True" />
+>>>>>>> 4e4e5a25ae5e51c32ee6b65b8320db69bc9f8eee
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
